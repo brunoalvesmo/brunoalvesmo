@@ -10,7 +10,7 @@ Enthusiast of the best web & mobile development technologies.
 
 Passionate about education and programming.
 
-### Technologies
+### Tech Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
