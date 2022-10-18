@@ -14,6 +14,7 @@ Passionate about education and programming.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -23,4 +24,5 @@ Passionate about education and programming.
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Laravel](https://img.shields.io/badge/Laravel-black?style=flat-square&logo=Laravel)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
