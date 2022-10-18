@@ -26,3 +26,5 @@ Passionate about education and programming.
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
+![Profile views](https://gpvc.arturio.dev/brunoalesmo)
