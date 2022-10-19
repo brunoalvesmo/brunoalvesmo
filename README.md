@@ -2,9 +2,6 @@
 
 ### Software Developer
 
-#### Education
-:mortar_board: Bachelor Information Systems - Unibalsas
-:mortar_board: Master Computer Science - UFPI
 
 [![Twitter Badge](https://img.shields.io/badge/-@brunoalvesmo-4B0082?style=flat-square&labelColor=4B0082f&logo=twitter&logoColor=white&link=https://twitter.com/brunoalvesmo)](https://twitter.com/brunoalvesmo) 
 [![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Alves-4B0082?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoalvesmo/)](https://www.linkedin.com/in/brunoalvesmo/) 
@@ -13,6 +10,10 @@
 Enthusiast of the best web & mobile development technologies.
 
 Passionate about education and programming.
+
+#### Education
+:mortar_board: Bachelor Information Systems - Unibalsas                                                                                                                  
+:mortar_board: Master Computer Science - UFPI
 
 ### Tech Skills
 
