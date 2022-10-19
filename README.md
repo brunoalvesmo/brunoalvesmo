@@ -11,7 +11,7 @@ Enthusiast of the best web & mobile development technologies.
 
 Passionate about education and programming.
 
-#### Education
+### Education
 :mortar_board: Bachelor Information Systems - Unibalsas                                                                                                                  
 :mortar_board: Master Computer Science - UFPI
 
