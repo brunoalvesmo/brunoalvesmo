@@ -32,4 +32,3 @@ Passionate about education and programming.
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
-![Profile views](https://gpvc.arturio.dev/brunoalesmo)
